@@ -1,0 +1,25 @@
+public class DataTypeDemo {
+    public static void main(String[] args) {
+        // Integer data type
+        int integerVar = 42;
+
+        // Double data type
+        double doubleVar = 3.14159;
+
+        // Character data type
+        char charVar = 'A';
+
+        // Boolean data type
+        boolean booleanVar = true;
+
+        // String data type
+        String stringVar = "Hello,SkillCaption";
+
+        // Displaying variable values with descriptions
+        System.out.println("Integer Variable: " + integerVar);
+        System.out.println("Double Variable: " + doubleVar);
+        System.out.println("Character Variable: " + charVar);
+        System.out.println("Boolean Variable: " + booleanVar);
+        System.out.println("String Variable: " + stringVar);
+    }
+}
